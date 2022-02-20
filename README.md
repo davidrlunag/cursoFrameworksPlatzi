@@ -1,2 +1,2 @@
-# curso-frameworks-php-platzi
-Repositorio utilizado para el Curso de Introducción a Frameworks con PHP 2020 en Platzi
+# curso-frameworks-php
+Repositorio utilizado para el Curso de Laravel para explicar el funcionamiento de un Framework con esta estructura inicial.
