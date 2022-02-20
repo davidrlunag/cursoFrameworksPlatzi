@@ -1,0 +1,19 @@
+{
+  "name": "softrain/curso-laravel",
+  "description": "Proyecto basico Framework",
+  "authors": [
+    {
+      "name": "David Luna",
+      "email": "davidrlunag@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "app/helpers.php"
+    ]
+  }
+}
